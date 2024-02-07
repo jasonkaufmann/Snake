@@ -21,7 +21,7 @@ This Snake game is a modern take on the classic arcade game. Developed with Unit
 1. Clone the repository to your local machine:
 
    ```sh
-   git clone [https://your-repository-url.com](https://github.com/jasonkaufmann/Snake)
+   git clone https://github.com/jasonkaufmann/Snake.git
    
 ### Open the project in Unity:
 
